@@ -1,3 +1,5 @@
+import { createMint } from '@solana/spl-token';
+
 import React, { useState } from 'react';
 import Input from '../Buttons/Input';
 
